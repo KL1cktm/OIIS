@@ -15,6 +15,7 @@ public class BrightCorrection {
             BufferedImage bufferedImage2 = ImageIO.read(file2);
             brightnessEqualization(bufferedImage1,bufferedImage2);
             ImageIO.write(bufferedImage2, "jpg", new File("image_adjusted.jpg"));
+            System.out.println("Программа завершена успешно!");
         } catch (IOException e) {
             e.printStackTrace();
         }
