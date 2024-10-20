@@ -167,7 +167,6 @@ public class FFTExample {
         real = Math.abs(real) < threshold ? 0.0 : real;
         imaginary = Math.abs(imaginary) < threshold ? 0.0 : imaginary;
         Complex W = new Complex(real,imaginary);
-//        System.out.println(W);
         return W;
     }
 

@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6970daf1-07a0-4b8a-88d0-49115c229f8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    <list default="true" id="6970daf1-07a0-4b8a-88d0-49115c229f8c" name="Changes" comment="Add all necessary files for lab working.&#10;Full correct code.&#10;Frequency should be multiple 2&#10;1 - SIN 2 - COS&#10;Sequence natural numbers was commented with 3 point">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FFTExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FFTExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,20 +28,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.run_program">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.App" />
@@ -134,12 +129,30 @@
       <workItem from="1725429812842" duration="6629000" />
       <workItem from="1725473623663" duration="10087000" />
       <workItem from="1725529442102" duration="2726000" />
-      <workItem from="1725557840112" duration="4428000" />
+      <workItem from="1725557840112" duration="5393000" />
+      <workItem from="1725745852981" duration="12000" />
+      <workItem from="1725880034829" duration="1605000" />
+      <workItem from="1726488443413" duration="147000" />
+      <workItem from="1726489049943" duration="100000" />
+      <workItem from="1726502898379" duration="33000" />
     </task>
+    <task id="LOCAL-00001" summary="Add all necessary files for lab working.&#10;Full correct code.&#10;Frequency should be multiple 2&#10;1 - SIN 2 - COS&#10;Sequence natural numbers was commented with 3 point">
+      <option name="closed" value="true" />
+      <created>1725562422354</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725562422354</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add all necessary files for lab working.&#10;Full correct code.&#10;Frequency should be multiple 2&#10;1 - SIN 2 - COS&#10;Sequence natural numbers was commented with 3 point" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add all necessary files for lab working.&#10;Full correct code.&#10;Frequency should be multiple 2&#10;1 - SIN 2 - COS&#10;Sequence natural numbers was commented with 3 point" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
